@@ -1,2 +1,2 @@
 # projeto-android
-projeto android desenvolvido com HTML & CSS .
+projeto android desenvolvido com HTML & CSS 
